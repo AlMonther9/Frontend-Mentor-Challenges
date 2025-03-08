@@ -1,6 +1,6 @@
 # Frontend Mentor Challenges
 
-This repository contains links to all my Frontend Mentor challenge repositories.
+This repository contains links to all my Frontend Mentor challenges repositories.  yet
 
 ## Projects
 
